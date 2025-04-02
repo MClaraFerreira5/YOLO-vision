@@ -21,7 +21,7 @@ while cap.isOpened():
     cv2.imshow("YOLO Detecção", frame)
 
     
-    if cv2.waitKey(1) & 0xFF == ord('q'):
+    if cv2.waitKey(1) & 0xFF == ord('e'):
         break
 
 cap.release()
