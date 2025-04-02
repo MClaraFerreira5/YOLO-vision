@@ -1,8 +1,0 @@
-
-yolo_env/
-venv/
-
-
-*.pyd
-*.dll
-*.lib
